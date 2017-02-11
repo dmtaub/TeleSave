@@ -1,10 +1,10 @@
-package ExamplePlugin;
+package TeleSave;
 
 import cn.nukkit.scheduler.PluginTask;
 
 /**
- * author: MagicDroidX
- * ExamplePlugin Project
+ * author: mDan
+ * based on example by: MagicDroidX
  */
 public class BroadcastPluginTask extends PluginTask<MainClass> {
 

@@ -1,4 +1,4 @@
-package ExamplePlugin;
+package TeleSave;
 
 import cn.nukkit.event.EventHandler;
 import cn.nukkit.event.EventPriority;
@@ -6,8 +6,8 @@ import cn.nukkit.event.Listener;
 import cn.nukkit.event.server.ServerCommandEvent;
 
 /**
- * author: MagicDroidX
- * NukkitExamplePlugin Project
+ * by mDAn
+ * based on example by: MagicDroidX
  */
 public class EventListener implements Listener {
     MainClass plugin;

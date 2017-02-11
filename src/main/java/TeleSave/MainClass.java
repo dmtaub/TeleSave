@@ -1,4 +1,4 @@
-package ExamplePlugin;
+package TeleSave;
 
 import cn.nukkit.command.Command;
 import cn.nukkit.command.CommandSender;
@@ -12,8 +12,8 @@ import java.io.IOException;
 import java.util.LinkedHashMap;
 
 /**
- * author: MagicDroidX
- * NukkitExamplePlugin Project
+ * author: mDan
+ * based on example by: MagicDroidX
  */
 public class MainClass extends PluginBase {
 
